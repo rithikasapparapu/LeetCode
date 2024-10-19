@@ -1,4 +1,5 @@
 class Solution {
+    //two pointers approach is taking more time than the approach mentioned below.
     public boolean isSubsequence(String s, String t) {
         int l=0;
         int r=0;
