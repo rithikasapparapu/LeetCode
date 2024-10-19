@@ -18,9 +18,6 @@ class Solution {
             }
             while(!isAlphaNumeric(s.charAt(r))){
                 r--;
-                if(r<0){
-                    break;
-                }
             }
             if(s.charAt(l)!=s.charAt(r)){
                 return false;
