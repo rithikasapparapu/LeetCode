@@ -1,4 +1,26 @@
 class Solution {
+    public boolean isSubsequence(String s, String t) {
+        int l=0;
+        int r=0;
+        while(l<t.length() && r<s.length()){
+            if(t.charAt(l)!=s.charAt(r)){
+                l++;
+            }
+            else{
+                l++;
+                r++;
+            }
+        }
+        if(r==s.length()){
+            return true;
+        }
+        return false;
+    }
+}
+
+
+/*
+class Solution {
     public int isPresent(int index, char c, String s){
         int i=index+1;
         while(i<s.length()){
@@ -37,3 +59,4 @@ class Solution {
         return true;
     }
 }
+*/
