@@ -3,12 +3,12 @@ class Solution {
         HashSet<Character> elements = new HashSet<>();
         int i=0;
         int j=0;
-        if(s.length()==0){
-            return 0;
-        }
-        if(s.length()==1){
-            return 1;
-        }
+        // if(s.length()==0){
+        //     return 0;
+        // }
+        // if(s.length()==1){
+        //     return 1;
+        // }
         int count = Integer.MIN_VALUE;
         while(j<s.length()){
             if(!elements.contains(s.charAt(j))){
