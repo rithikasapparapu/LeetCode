@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rithikasapparapu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/rithikasapparapu/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rithikasapparapu/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/rithikasapparapu/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/rithikasapparapu/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/rithikasapparapu/LeetCode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/rithikasapparapu/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/rithikasapparapu/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/rithikasapparapu/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/rithikasapparapu/LeetCode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
