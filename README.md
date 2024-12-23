@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rithikasapparapu/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/rithikasapparapu/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rithikasapparapu/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/rithikasapparapu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rithikasapparapu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/rithikasapparapu/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rithikasapparapu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/rithikasapparapu/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rithikasapparapu/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/rithikasapparapu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rithikasapparapu/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rithikasapparapu/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rithikasapparapu/LeetCode/tree/master/0202-happy-number) |
@@ -112,4 +114,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/rithikasapparapu/LeetCode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/rithikasapparapu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
