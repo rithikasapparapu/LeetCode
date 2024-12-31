@@ -4,25 +4,8 @@ public:
         vector<vector<int>> result;
         int start=newInterval[0];
         int end=newInterval[1];
-        if(intervals.size()==0){
-            result.push_back(newInterval);
-            return result;
-        }
-        // if(intervals.size()==1){
-        //     vector<int> r;
-        //     if(intervals[0][1]<newInterval[0]){
-        //         result.push_back(intervals[0]);
-        //         result.push_back(newInterval);
-        //         return result;
-        //     }
-        //     if(intervals[0][0] > newInterval[1]){
-        //         result.push_back(newInterval);
-        //         result.push_back(intervals[0]);
-        //         return result;
-        //     }
-        //     r.push_back(min(intervals[0][0],newInterval[0]));
-        //     r.push_back(max(intervals[0][1],newInterval[1]));
-        //     result.push_back(r);
+        // if(intervals.size()==0){
+        //     result.push_back(newInterval);
         //     return result;
         // }
         bool start_found = false;
