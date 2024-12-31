@@ -2,12 +2,8 @@ class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
         vector<vector<int>> result;
-        int start=newInterval[0];
-        int end=newInterval[1];
-        // if(intervals.size()==0){
-        //     result.push_back(newInterval);
-        //     return result;
-        // }
+        int start = newInterval[0];
+        int end = newInterval[1];
         bool start_found = false;
         bool end_found = false;
         for(int i=0; i<intervals.size(); i++){
