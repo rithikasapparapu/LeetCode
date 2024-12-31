@@ -24,6 +24,7 @@ A collection of LeetCode questions!
 | [0209-minimum-size-subarray-sum](https://github.com/rithikasapparapu/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/rithikasapparapu/LeetCode/tree/master/0228-summary-ranges) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rithikasapparapu/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions!
 | [0088-merge-sorted-array](https://github.com/rithikasapparapu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rithikasapparapu/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rithikasapparapu/LeetCode/tree/master/0242-valid-anagram) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rithikasapparapu/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rithikasapparapu/LeetCode/tree/master/0011-container-with-most-water) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rithikasapparapu/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Sliding Window
 |  |
 | ------- |
