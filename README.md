@@ -61,6 +61,7 @@ A collection of LeetCode questions!
 | [0003-longest-substring-without-repeating-characters](https://github.com/rithikasapparapu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/rithikasapparapu/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/rithikasapparapu/LeetCode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/rithikasapparapu/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/rithikasapparapu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/rithikasapparapu/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rithikasapparapu/LeetCode/tree/master/0242-valid-anagram) |
@@ -130,4 +131,5 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rithikasapparapu/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/rithikasapparapu/LeetCode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
