@@ -26,7 +26,9 @@ public:
                         end_found = true;
                         if(newInterval[1]<intervals[i-1][0]){
                             end = newInterval[1];
-                            vector<int> r1 = {start, end};
+                            vector<int> r1;
+                            r1.push_back(start);
+                            r1.push_back(end);
                             result.push_back(r1);
                             result.push_back(intervals[i-1]);
                             result.push_back(intervals[i]);
