@@ -26,6 +26,7 @@ A collection of LeetCode questions!
 | [0219-contains-duplicate-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/rithikasapparapu/LeetCode/tree/master/0228-summary-ranges) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rithikasapparapu/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [2358-number-of-ways-to-split-array](https://github.com/rithikasapparapu/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rithikasapparapu/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [2358-number-of-ways-to-split-array](https://github.com/rithikasapparapu/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 ## Union Find
 |  |
 | ------- |
