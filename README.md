@@ -72,6 +72,7 @@ A collection of LeetCode questions!
 | [0290-word-pattern](https://github.com/rithikasapparapu/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/rithikasapparapu/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/rithikasapparapu/LeetCode/tree/master/0392-is-subsequence) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/rithikasapparapu/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rithikasapparapu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rithikasapparapu/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
@@ -124,6 +125,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rithikasapparapu/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/rithikasapparapu/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rithikasapparapu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/rithikasapparapu/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rithikasapparapu/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
