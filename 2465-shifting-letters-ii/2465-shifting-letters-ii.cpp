@@ -8,11 +8,11 @@ public:
             int start = shift[0], end = shift[1], direction = shift[2];
             if (direction == 1) {
                 diff[start]++;
-                if (end + 1 < n) diff[end + 1]--;
+                diff[end + 1]--;
             } 
             else{
                 diff[start]--;
-                if (end + 1 < n) diff[end + 1]++;
+                diff[end + 1]++;
             }
         }
 
