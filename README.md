@@ -61,6 +61,7 @@ A collection of LeetCode questions!
 | [0009-palindrome-number](https://github.com/rithikasapparapu/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/rithikasapparapu/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/rithikasapparapu/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/rithikasapparapu/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rithikasapparapu/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/rithikasapparapu/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rithikasapparapu/LeetCode/tree/master/0202-happy-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions!
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/rithikasapparapu/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rithikasapparapu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rithikasapparapu/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
