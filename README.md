@@ -14,6 +14,7 @@ A collection of LeetCode questions!
 | [0049-group-anagrams](https://github.com/rithikasapparapu/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rithikasapparapu/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rithikasapparapu/LeetCode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/rithikasapparapu/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/rithikasapparapu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rithikasapparapu/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions!
 | ------- |
 | [0009-palindrome-number](https://github.com/rithikasapparapu/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/rithikasapparapu/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/rithikasapparapu/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rithikasapparapu/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/rithikasapparapu/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rithikasapparapu/LeetCode/tree/master/0202-happy-number) |
