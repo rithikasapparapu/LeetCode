@@ -57,6 +57,7 @@ A collection of LeetCode questions!
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/rithikasapparapu/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/rithikasapparapu/LeetCode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rithikasapparapu/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/rithikasapparapu/LeetCode/tree/master/0189-rotate-array) |
