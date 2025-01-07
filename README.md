@@ -27,6 +27,7 @@ A collection of LeetCode questions!
 | [0219-contains-duplicate-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/rithikasapparapu/LeetCode/tree/master/0228-summary-ranges) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rithikasapparapu/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1524-string-matching-in-an-array](https://github.com/rithikasapparapu/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rithikasapparapu/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/rithikasapparapu/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions!
 | [0290-word-pattern](https://github.com/rithikasapparapu/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/rithikasapparapu/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/rithikasapparapu/LeetCode/tree/master/0392-is-subsequence) |
+| [1524-string-matching-in-an-array](https://github.com/rithikasapparapu/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rithikasapparapu/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rithikasapparapu/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rithikasapparapu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rithikasapparapu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/rithikasapparapu/LeetCode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
