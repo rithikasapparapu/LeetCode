@@ -83,6 +83,7 @@ A collection of LeetCode questions!
 | [0383-ransom-note](https://github.com/rithikasapparapu/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/rithikasapparapu/LeetCode/tree/master/0392-is-subsequence) |
 | [0952-word-subsets](https://github.com/rithikasapparapu/LeetCode/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/rithikasapparapu/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/rithikasapparapu/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rithikasapparapu/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rithikasapparapu/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions!
 | [0290-word-pattern](https://github.com/rithikasapparapu/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/rithikasapparapu/LeetCode/tree/master/0383-ransom-note) |
 | [0952-word-subsets](https://github.com/rithikasapparapu/LeetCode/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/rithikasapparapu/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rithikasapparapu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Divide and Conquer
 |  |
@@ -128,11 +130,13 @@ A collection of LeetCode questions!
 | ------- |
 | [0169-majority-element](https://github.com/rithikasapparapu/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/rithikasapparapu/LeetCode/tree/master/0383-ransom-note) |
+| [1502-construct-k-palindrome-strings](https://github.com/rithikasapparapu/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rithikasapparapu/LeetCode/tree/master/0011-container-with-most-water) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rithikasapparapu/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1502-construct-k-palindrome-strings](https://github.com/rithikasapparapu/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 ## Sliding Window
 |  |
 | ------- |
