@@ -10,7 +10,6 @@ public:
             }
             for(auto it=current.begin(); it!=current.end(); it++){
                 if(map.find(it->first)==map.end()){
-                    map[it->first]++;
                     map[it->first] = current[it->first];
                 }
                 else{
