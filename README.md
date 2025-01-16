@@ -19,6 +19,7 @@ A collection of LeetCode questions!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rithikasapparapu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/rithikasapparapu/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/rithikasapparapu/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rithikasapparapu/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rithikasapparapu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rithikasapparapu/LeetCode/tree/master/0169-majority-element) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rithikasapparapu/LeetCode/tree/master/0136-single-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rithikasapparapu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/rithikasapparapu/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rithikasapparapu/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
