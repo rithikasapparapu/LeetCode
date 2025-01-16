@@ -132,6 +132,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rithikasapparapu/LeetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/rithikasapparapu/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rithikasapparapu/LeetCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/rithikasapparapu/LeetCode/tree/master/0191-number-of-1-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rithikasapparapu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/rithikasapparapu/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rithikasapparapu/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
