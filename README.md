@@ -27,6 +27,7 @@ A collection of LeetCode questions!
 | [0209-minimum-size-subarray-sum](https://github.com/rithikasapparapu/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/rithikasapparapu/LeetCode/tree/master/0228-summary-ranges) |
+| [0407-trapping-rain-water-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rithikasapparapu/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0952-word-subsets](https://github.com/rithikasapparapu/LeetCode/tree/master/0952-word-subsets) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rithikasapparapu/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions!
 | [0036-valid-sudoku](https://github.com/rithikasapparapu/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/rithikasapparapu/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rithikasapparapu/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0407-trapping-rain-water-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rithikasapparapu/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Stack
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rithikasapparapu/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
@@ -232,6 +235,7 @@ A collection of LeetCode questions!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rithikasapparapu/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
