@@ -7,7 +7,7 @@ public:
             map[nums[i]]++;
         }
         for(int i=0; i<nums.size(); i++){
-            if(map.count(target-nums[i])!=0)
+            if(map.count(target-nums[i])!=0){
                 //checking if target-current is present in the hashmap
                 if(target-nums[i]!=nums[i] )
                     result.push_back(i);
@@ -16,6 +16,7 @@ public:
                         result.push_back(i);
                     }
                 }
+            }
         }
         return result;
     }
