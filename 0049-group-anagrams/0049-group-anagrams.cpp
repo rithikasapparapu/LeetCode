@@ -8,8 +8,8 @@ public:
             sort(temp.begin(),temp.end());
             map[temp].push_back(strs[i]);
         }
-        for(auto itr=map.begin(); itr!=map.end(); itr++){
-            result.push_back(itr->second);
+        for(auto e:map){
+            result.push_back(e.second);
         }
         return result;
     }
