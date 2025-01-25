@@ -24,6 +24,7 @@ A collection of LeetCode questions!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rithikasapparapu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rithikasapparapu/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rithikasapparapu/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/rithikasapparapu/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/rithikasapparapu/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/rithikasapparapu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rithikasapparapu/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/rithikasapparapu/LeetCode/tree/master/0200-number-of-islands) |
 | [1396-count-servers-that-communicate](https://github.com/rithikasapparapu/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rithikasapparapu/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
@@ -191,6 +193,7 @@ A collection of LeetCode questions!
 | [0036-valid-sudoku](https://github.com/rithikasapparapu/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/rithikasapparapu/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rithikasapparapu/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/rithikasapparapu/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/rithikasapparapu/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rithikasapparapu/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rithikasapparapu/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0820-find-eventual-safe-states](https://github.com/rithikasapparapu/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/rithikasapparapu/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -266,6 +270,7 @@ A collection of LeetCode questions!
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rithikasapparapu/LeetCode/tree/master/0200-number-of-islands) |
 | [0820-find-eventual-safe-states](https://github.com/rithikasapparapu/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/rithikasapparapu/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Topological Sort
