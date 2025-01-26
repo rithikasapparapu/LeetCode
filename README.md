@@ -84,6 +84,7 @@ A collection of LeetCode questions!
 | [0048-rotate-image](https://github.com/rithikasapparapu/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/rithikasapparapu/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rithikasapparapu/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/rithikasapparapu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rithikasapparapu/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/rithikasapparapu/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rithikasapparapu/LeetCode/tree/master/0202-happy-number) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rithikasapparapu/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/rithikasapparapu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/rithikasapparapu/LeetCode/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
@@ -286,4 +288,8 @@ A collection of LeetCode questions!
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/rithikasapparapu/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/rithikasapparapu/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rithikasapparapu/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
