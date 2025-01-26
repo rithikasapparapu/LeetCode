@@ -12,6 +12,7 @@ A collection of LeetCode questions!
 | [0036-valid-sudoku](https://github.com/rithikasapparapu/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/rithikasapparapu/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rithikasapparapu/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/rithikasapparapu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/rithikasapparapu/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rithikasapparapu/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/rithikasapparapu/LeetCode/tree/master/0066-plus-one) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rithikasapparapu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/rithikasapparapu/LeetCode/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rithikasapparapu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rithikasapparapu/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/rithikasapparapu/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Counting
