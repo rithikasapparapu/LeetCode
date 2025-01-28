@@ -5,9 +5,7 @@ public:
         int n = nums.size();
         int right=n-1, left=n-2;
         while(left>=0){
-            if(nums[left]>=nums[left+1]){
-                left--;
-            }
+            if(nums[left]>=nums[left+1]) left--;
             else{
                 if(nums[left]>=nums[right]) right--;
                 else{
