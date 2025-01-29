@@ -107,6 +107,7 @@ A collection of LeetCode questions!
 | [0290-word-pattern](https://github.com/rithikasapparapu/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/rithikasapparapu/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/rithikasapparapu/LeetCode/tree/master/0392-is-subsequence) |
+| [0657-robot-return-to-origin](https://github.com/rithikasapparapu/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0952-word-subsets](https://github.com/rithikasapparapu/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/rithikasapparapu/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/rithikasapparapu/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -316,4 +317,8 @@ A collection of LeetCode questions!
 | ------- |
 | [0039-combination-sum](https://github.com/rithikasapparapu/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rithikasapparapu/LeetCode/tree/master/0046-permutations) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/rithikasapparapu/LeetCode/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
