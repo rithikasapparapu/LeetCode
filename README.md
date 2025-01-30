@@ -37,6 +37,7 @@ A collection of LeetCode questions!
 | [0228-summary-ranges](https://github.com/rithikasapparapu/LeetCode/tree/master/0228-summary-ranges) |
 | [0407-trapping-rain-water-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rithikasapparapu/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0817-design-hashmap](https://github.com/rithikasapparapu/LeetCode/tree/master/0817-design-hashmap) |
 | [0952-word-subsets](https://github.com/rithikasapparapu/LeetCode/tree/master/0952-word-subsets) |
 | [1396-count-servers-that-communicate](https://github.com/rithikasapparapu/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rithikasapparapu/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions!
 | [0242-valid-anagram](https://github.com/rithikasapparapu/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rithikasapparapu/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/rithikasapparapu/LeetCode/tree/master/0383-ransom-note) |
+| [0817-design-hashmap](https://github.com/rithikasapparapu/LeetCode/tree/master/0817-design-hashmap) |
 | [0952-word-subsets](https://github.com/rithikasapparapu/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/rithikasapparapu/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rithikasapparapu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rithikasapparapu/LeetCode/tree/master/0155-min-stack) |
+| [0817-design-hashmap](https://github.com/rithikasapparapu/LeetCode/tree/master/0817-design-hashmap) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions!
 ## Hash Function
 |  |
 | ------- |
+| [0817-design-hashmap](https://github.com/rithikasapparapu/LeetCode/tree/master/0817-design-hashmap) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rithikasapparapu/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Brainteaser
 |  |
@@ -333,4 +337,8 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/rithikasapparapu/LeetCode/tree/master/1013-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/rithikasapparapu/LeetCode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
