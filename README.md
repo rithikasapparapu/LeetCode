@@ -243,11 +243,13 @@ A collection of LeetCode questions!
 | [0071-simplify-path](https://github.com/rithikasapparapu/LeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rithikasapparapu/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rithikasapparapu/LeetCode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/rithikasapparapu/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rithikasapparapu/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rithikasapparapu/LeetCode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/rithikasapparapu/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0817-design-hashmap](https://github.com/rithikasapparapu/LeetCode/tree/master/0817-design-hashmap) |
 ## Bit Manipulation
 |  |
@@ -356,5 +358,6 @@ A collection of LeetCode questions!
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/rithikasapparapu/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/rithikasapparapu/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
