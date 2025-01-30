@@ -113,6 +113,7 @@ A collection of LeetCode questions!
 | [0387-first-unique-character-in-a-string](https://github.com/rithikasapparapu/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/rithikasapparapu/LeetCode/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/rithikasapparapu/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0812-rotate-string](https://github.com/rithikasapparapu/LeetCode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/rithikasapparapu/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/rithikasapparapu/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/rithikasapparapu/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions!
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/rithikasapparapu/LeetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/rithikasapparapu/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rithikasapparapu/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rithikasapparapu/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
