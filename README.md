@@ -207,6 +207,7 @@ A collection of LeetCode questions!
 | [0200-number-of-islands](https://github.com/rithikasapparapu/LeetCode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/rithikasapparapu/LeetCode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/rithikasapparapu/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/rithikasapparapu/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rithikasapparapu/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rithikasapparapu/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
@@ -278,6 +279,7 @@ A collection of LeetCode questions!
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rithikasapparapu/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/rithikasapparapu/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/rithikasapparapu/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/rithikasapparapu/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rithikasapparapu/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions!
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rithikasapparapu/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/rithikasapparapu/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/rithikasapparapu/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/rithikasapparapu/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
