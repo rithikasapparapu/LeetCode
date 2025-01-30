@@ -23,6 +23,7 @@ A collection of LeetCode questions!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rithikasapparapu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/rithikasapparapu/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rithikasapparapu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/rithikasapparapu/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/rithikasapparapu/LeetCode/tree/master/0136-single-number) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions!
 | [0053-maximum-subarray](https://github.com/rithikasapparapu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/rithikasapparapu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/rithikasapparapu/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rithikasapparapu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/rithikasapparapu/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/rithikasapparapu/LeetCode/tree/master/1013-fibonacci-number) |
