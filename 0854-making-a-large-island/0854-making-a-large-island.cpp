@@ -1,9 +1,5 @@
 class Solution {
 public:
-    int getCellValue(int row, int col, vector<vector<int>>& grid) {
-        return (row < 0 || col < 0 || row >= grid.size() || col >= grid[0].size()) ? 0 : grid[row][col];
-    }
-
     int dfs(int row, int col, int islandId, vector<vector<int>>& grid) {
         if(row < 0 || col < 0 || row > grid.size()-1 || col > grid[0].size()-1 || grid[row][col] != 1) return 0;
         grid[row][col] = islandId;
