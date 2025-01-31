@@ -100,6 +100,7 @@ A collection of LeetCode questions!
 | [0189-rotate-array](https://github.com/rithikasapparapu/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rithikasapparapu/LeetCode/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/rithikasapparapu/LeetCode/tree/master/1013-fibonacci-number) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/rithikasapparapu/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## String
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions!
 | [0657-robot-return-to-origin](https://github.com/rithikasapparapu/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0812-rotate-string](https://github.com/rithikasapparapu/LeetCode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/rithikasapparapu/LeetCode/tree/master/0952-word-subsets) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/rithikasapparapu/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1502-construct-k-palindrome-strings](https://github.com/rithikasapparapu/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/rithikasapparapu/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rithikasapparapu/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
