@@ -18,6 +18,7 @@ A collection of LeetCode questions!
 | [0053-maximum-subarray](https://github.com/rithikasapparapu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/rithikasapparapu/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rithikasapparapu/LeetCode/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/rithikasapparapu/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/rithikasapparapu/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/rithikasapparapu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rithikasapparapu/LeetCode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/rithikasapparapu/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rithikasapparapu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/rithikasapparapu/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions!
 | ------- |
 | [0036-valid-sudoku](https://github.com/rithikasapparapu/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/rithikasapparapu/LeetCode/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/rithikasapparapu/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/rithikasapparapu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/rithikasapparapu/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0407-trapping-rain-water-ii) |
