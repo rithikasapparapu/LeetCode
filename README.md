@@ -47,6 +47,7 @@ A collection of LeetCode questions!
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rithikasapparapu/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/rithikasapparapu/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/rithikasapparapu/LeetCode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/rithikasapparapu/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/rithikasapparapu/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rithikasapparapu/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rithikasapparapu/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions!
 | ------- |
 | [0039-combination-sum](https://github.com/rithikasapparapu/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rithikasapparapu/LeetCode/tree/master/0046-permutations) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/rithikasapparapu/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Simulation
 |  |
 | ------- |
