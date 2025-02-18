@@ -135,6 +135,7 @@ A collection of LeetCode questions!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rithikasapparapu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rithikasapparapu/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rithikasapparapu/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/rithikasapparapu/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rithikasapparapu/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rithikasapparapu/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions!
 | [1502-construct-k-palindrome-strings](https://github.com/rithikasapparapu/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/rithikasapparapu/LeetCode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rithikasapparapu/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/rithikasapparapu/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/rithikasapparapu/LeetCode/tree/master/2509-minimize-xor) |
 ## Sliding Window
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions!
 | [0155-min-stack](https://github.com/rithikasapparapu/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/rithikasapparapu/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/rithikasapparapu/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/rithikasapparapu/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Design
 |  |
 | ------- |
@@ -365,6 +368,7 @@ A collection of LeetCode questions!
 | [0046-permutations](https://github.com/rithikasapparapu/LeetCode/tree/master/0046-permutations) |
 | [1160-letter-tile-possibilities](https://github.com/rithikasapparapu/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/rithikasapparapu/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/rithikasapparapu/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Simulation
 |  |
 | ------- |
