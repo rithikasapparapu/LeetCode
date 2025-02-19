@@ -128,6 +128,7 @@ A collection of LeetCode questions!
 | [1146-greatest-common-divisor-of-strings](https://github.com/rithikasapparapu/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/rithikasapparapu/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/rithikasapparapu/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rithikasapparapu/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/rithikasapparapu/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rithikasapparapu/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rithikasapparapu/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions!
 | [0039-combination-sum](https://github.com/rithikasapparapu/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rithikasapparapu/LeetCode/tree/master/0046-permutations) |
 | [1160-letter-tile-possibilities](https://github.com/rithikasapparapu/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rithikasapparapu/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/rithikasapparapu/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rithikasapparapu/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Simulation
