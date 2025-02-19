@@ -13,19 +13,18 @@ public:
             if(temp.empty()){
                 temp += happy[i];
                 b = btk(res, temp, n, k, happy);
-                if(b) break;
+                if(b) return true;
                 temp.pop_back();
             }
             else{
                 if(happy[i]!=temp.back()){
                     temp += happy[i];
                     b = btk(res, temp, n, k, happy);
-                    if(b) break;
+                    if(b) return true;
                     temp.pop_back();
                 }
             }
         }
-        if(b) return true;
         return false;
     }
     string getHappyString(int n, int k) {
