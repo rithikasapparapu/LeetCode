@@ -2,17 +2,16 @@ class Solution {
 public:
     TreeNode* recoverFromPreorder(string traversal) {
         stack<TreeNode*> st;
-        TreeNode* root = nullptr;
+        TreeNode* root;
         int i = 0;
         int n = traversal.size();
 
-        // Parse root node (depth 0)
-        int val = 0;
+        string temp = "";
         while (i < n && traversal[i] != '-') {
-            val = val * 10 + (traversal[i] - '0');
+            temp += traversal[i];
             i++;
         }
-        root = new TreeNode(val);
+        root = new TreeNode(stoi(temp));
         st.push(root);
 
         while (i < n) {
@@ -22,25 +21,23 @@ public:
                 i++;
             }
 
-            val = 0;
+            temp = "";
             while (i < n && traversal[i] != '-') {
-                val = val * 10 + (traversal[i] - '0');
+                temp += traversal[i];
                 i++;
             }
 
-            TreeNode* node = new TreeNode(val);
+            TreeNode* node = new TreeNode(stoi(temp));
             while (st.size() > depth) {
                 st.pop();
             }
-
-            if (st.top()->left == nullptr) {
+            if (st.top()->left == NULL) {
                 st.top()->left = node;
             } else {
                 st.top()->right = node;
             }
             st.push(node);
         }
-
         return root;
     }
 };
