@@ -62,6 +62,7 @@ A collection of LeetCode questions!
 | [2358-number-of-ways-to-split-array](https://github.com/rithikasapparapu/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rithikasapparapu/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2551-apply-operations-to-an-array](https://github.com/rithikasapparapu/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/rithikasapparapu/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rithikasapparapu/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rithikasapparapu/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions!
 | [0189-rotate-array](https://github.com/rithikasapparapu/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rithikasapparapu/LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/rithikasapparapu/LeetCode/tree/master/0392-is-subsequence) |
+| [2551-apply-operations-to-an-array](https://github.com/rithikasapparapu/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -403,6 +405,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/rithikasapparapu/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [2551-apply-operations-to-an-array](https://github.com/rithikasapparapu/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Recursion
 |  |
 | ------- |
