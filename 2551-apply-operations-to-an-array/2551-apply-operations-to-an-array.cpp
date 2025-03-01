@@ -7,14 +7,19 @@ public:
                 nums[i+1] = 0;
             }
         }
-        vector<int> res(nums.size(),0);
-        int j = 0;
-        for(int i=0; i<nums.size(); i++){
-            if(nums[i]!=0){
-                res[j] = nums[i];
-                j++;
+        int t = 0, j = 0;
+        while(j < nums.size()) {
+            if(nums[j] != 0) {
+                nums[t] = nums[j];
+                t++;
             }
+            j++;
         }
-        return res;
+        while(t < nums.size()) {
+            nums[t] = 0;
+            t++;
+        }
+        
+        return nums;
     }
 };
