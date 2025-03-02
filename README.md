@@ -66,6 +66,7 @@ A collection of LeetCode questions!
 | [2564-most-profitable-path-in-a-tree](https://github.com/rithikasapparapu/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rithikasapparapu/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rithikasapparapu/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rithikasapparapu/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rithikasapparapu/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rithikasapparapu/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/rithikasapparapu/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions!
 | [0202-happy-number](https://github.com/rithikasapparapu/LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/rithikasapparapu/LeetCode/tree/master/0392-is-subsequence) |
 | [2551-apply-operations-to-an-array](https://github.com/rithikasapparapu/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rithikasapparapu/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rithikasapparapu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/rithikasapparapu/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rithikasapparapu/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rithikasapparapu/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rithikasapparapu/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rithikasapparapu/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
