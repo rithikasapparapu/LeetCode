@@ -58,6 +58,7 @@ A collection of LeetCode questions!
 | [1927-maximum-ascending-subarray-sum](https://github.com/rithikasapparapu/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/rithikasapparapu/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/rithikasapparapu/LeetCode/tree/master/2145-grid-game) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/rithikasapparapu/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rithikasapparapu/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/rithikasapparapu/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions!
 | [0189-rotate-array](https://github.com/rithikasapparapu/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rithikasapparapu/LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/rithikasapparapu/LeetCode/tree/master/0392-is-subsequence) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/rithikasapparapu/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/rithikasapparapu/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rithikasapparapu/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
@@ -408,6 +410,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/rithikasapparapu/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/rithikasapparapu/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/rithikasapparapu/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Recursion
 |  |
