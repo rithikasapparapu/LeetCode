@@ -72,6 +72,7 @@ A collection of LeetCode questions!
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rithikasapparapu/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/rithikasapparapu/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rithikasapparapu/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/rithikasapparapu/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rithikasapparapu/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rithikasapparapu/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/rithikasapparapu/LeetCode/tree/master/3429-special-array-i) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions!
 | [1146-greatest-common-divisor-of-strings](https://github.com/rithikasapparapu/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rithikasapparapu/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rithikasapparapu/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [3227-find-missing-and-repeated-values](https://github.com/rithikasapparapu/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions!
 | [2685-first-completely-painted-row-or-column](https://github.com/rithikasapparapu/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rithikasapparapu/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rithikasapparapu/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/rithikasapparapu/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rithikasapparapu/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
 |  |
@@ -286,6 +289,7 @@ A collection of LeetCode questions!
 | [2145-grid-game](https://github.com/rithikasapparapu/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rithikasapparapu/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rithikasapparapu/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/rithikasapparapu/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
 |  |
 | ------- |
