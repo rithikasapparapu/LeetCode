@@ -76,6 +76,7 @@ A collection of LeetCode questions!
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rithikasapparapu/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rithikasapparapu/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/rithikasapparapu/LeetCode/tree/master/3429-special-array-i) |
+| [3483-alternating-groups-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions!
 | [0209-minimum-size-subarray-sum](https://github.com/rithikasapparapu/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rithikasapparapu/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Prefix Sum
 |  |
 | ------- |
