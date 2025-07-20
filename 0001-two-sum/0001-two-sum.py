@@ -27,21 +27,10 @@ class Solution(object):
         dic = {}
         i = 0
         for num in nums:
-            if dic.get(num) is None:
-                dic[num] = [1,[i]]
+            if dic.get(target - num) is not None:
+                return [i,dic[target-num]]
             else:
-                dic[num][0] += 1
-                dic[num][1].append(i)
-            i += 1
-        print(dic)
-        for num in nums:
-            if target - num != num:
-                if dic.get(target - num) is not None:
-                    return [dic[num][1][0],dic[target-num][1][0]]
-            else:
-                if dic[num][0] > 1:
-                    return dic[num][1]
-        
-                
+                dic[num] = i
+            i += 1  
 
         
