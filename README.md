@@ -40,6 +40,7 @@ A collection of LeetCode questions!
 | [0407-trapping-rain-water-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rithikasapparapu/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0724-find-pivot-index](https://github.com/rithikasapparapu/LeetCode/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/rithikasapparapu/LeetCode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/rithikasapparapu/LeetCode/tree/master/0817-design-hashmap) |
 | [0854-making-a-large-island](https://github.com/rithikasapparapu/LeetCode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rithikasapparapu/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions!
 | [0069-sqrtx](https://github.com/rithikasapparapu/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rithikasapparapu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rithikasapparapu/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0792-binary-search](https://github.com/rithikasapparapu/LeetCode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
