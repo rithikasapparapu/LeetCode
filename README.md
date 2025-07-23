@@ -37,6 +37,7 @@ A collection of LeetCode questions!
 | [0217-contains-duplicate](https://github.com/rithikasapparapu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/rithikasapparapu/LeetCode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/rithikasapparapu/LeetCode/tree/master/0268-missing-number) |
 | [0407-trapping-rain-water-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rithikasapparapu/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0724-find-pivot-index](https://github.com/rithikasapparapu/LeetCode/tree/master/0724-find-pivot-index) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions!
 | [0169-majority-element](https://github.com/rithikasapparapu/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rithikasapparapu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rithikasapparapu/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rithikasapparapu/LeetCode/tree/master/0268-missing-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rithikasapparapu/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/rithikasapparapu/LeetCode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rithikasapparapu/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions!
 | [0150-evaluate-reverse-polish-notation](https://github.com/rithikasapparapu/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/rithikasapparapu/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rithikasapparapu/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/rithikasapparapu/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/rithikasapparapu/LeetCode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rithikasapparapu/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rithikasapparapu/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions!
 | [0069-sqrtx](https://github.com/rithikasapparapu/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rithikasapparapu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rithikasapparapu/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/rithikasapparapu/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/rithikasapparapu/LeetCode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -203,6 +207,7 @@ A collection of LeetCode questions!
 | [0217-contains-duplicate](https://github.com/rithikasapparapu/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/rithikasapparapu/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rithikasapparapu/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/rithikasapparapu/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/rithikasapparapu/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rithikasapparapu/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -320,6 +325,7 @@ A collection of LeetCode questions!
 | ------- |
 | [0136-single-number](https://github.com/rithikasapparapu/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/rithikasapparapu/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/rithikasapparapu/LeetCode/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rithikasapparapu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/rithikasapparapu/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rithikasapparapu/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
