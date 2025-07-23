@@ -6,9 +6,7 @@ class Solution:
         temp = []
         for lis in mat:
             for elmt in lis:
-                print(elmt)
                 if len(temp) != c:
-                    print(len(temp))
                     temp.append(elmt)
                 else:
                     res.append(temp)
