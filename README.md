@@ -40,6 +40,7 @@ A collection of LeetCode questions!
 | [0268-missing-number](https://github.com/rithikasapparapu/LeetCode/tree/master/0268-missing-number) |
 | [0407-trapping-rain-water-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rithikasapparapu/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0566-reshape-the-matrix](https://github.com/rithikasapparapu/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/rithikasapparapu/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/rithikasapparapu/LeetCode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/rithikasapparapu/LeetCode/tree/master/0817-design-hashmap) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions!
 | [0073-set-matrix-zeroes](https://github.com/rithikasapparapu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/rithikasapparapu/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/rithikasapparapu/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0566-reshape-the-matrix](https://github.com/rithikasapparapu/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0854-making-a-large-island](https://github.com/rithikasapparapu/LeetCode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/rithikasapparapu/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rithikasapparapu/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions!
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/rithikasapparapu/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/rithikasapparapu/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rithikasapparapu/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/rithikasapparapu/LeetCode/tree/master/2551-apply-operations-to-an-array) |
