@@ -5,7 +5,7 @@ class Solution:
         high = len(nums)-1
 
         while low <= high:
-            mid = (low + high) // 2
+            mid = low + ((high - low) // 2)
             if nums[mid] > target:
                 high = mid - 1
             elif nums[mid] < target:
